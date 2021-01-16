@@ -1,0 +1,41 @@
+.sample1{
+    background-color: sandybrown;
+    color:red;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid sienna;
+}
+.item1:hover{
+    cursor: pointer;
+    color: yellow;
+}
+.item2:hover{
+    cursor: pointer;
+    color: yellow;
+}
+.item2{
+
+    border-bottom: 1px solid black;
+}
+.sample2{
+    height: 250px;
+    display: flex;
+    background-color: springgreen;
+    flex-direction: column;
+    justify-content: space-around;
+    width: fit-content;
+    border: 1px solid black;
+}
+.item3:hover{
+    cursor: pointer;
+    color: yellow;
+}
+.item3{
+    background-color: violet;
+    padding: 20px;
+    border-radius: 30%;
+}
+.sample3{
+    display: flex;
+    justify-content: space-around;
+}
